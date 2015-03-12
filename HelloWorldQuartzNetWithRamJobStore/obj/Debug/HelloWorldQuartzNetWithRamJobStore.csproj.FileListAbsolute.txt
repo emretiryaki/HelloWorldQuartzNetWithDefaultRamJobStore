@@ -1,0 +1,15 @@
+C:\Users\Emre Tiryaki\Desktop\HelloWorldQuartzNetWithRamJobStore\HelloWorldQuartzNetWithRamJobStore\bin\Debug\HelloWorldQuartzNetWithRamJobStore.exe.config
+C:\Users\Emre Tiryaki\Desktop\HelloWorldQuartzNetWithRamJobStore\HelloWorldQuartzNetWithRamJobStore\bin\Debug\HelloWorldQuartzNetWithRamJobStore.exe
+C:\Users\Emre Tiryaki\Desktop\HelloWorldQuartzNetWithRamJobStore\HelloWorldQuartzNetWithRamJobStore\bin\Debug\HelloWorldQuartzNetWithRamJobStore.pdb
+C:\Users\Emre Tiryaki\Desktop\HelloWorldQuartzNetWithRamJobStore\HelloWorldQuartzNetWithRamJobStore\bin\Debug\Common.Logging.Core.dll
+C:\Users\Emre Tiryaki\Desktop\HelloWorldQuartzNetWithRamJobStore\HelloWorldQuartzNetWithRamJobStore\bin\Debug\Common.Logging.dll
+C:\Users\Emre Tiryaki\Desktop\HelloWorldQuartzNetWithRamJobStore\HelloWorldQuartzNetWithRamJobStore\bin\Debug\Quartz.dll
+C:\Users\Emre Tiryaki\Desktop\HelloWorldQuartzNetWithRamJobStore\HelloWorldQuartzNetWithRamJobStore\bin\Debug\Common.Logging.pdb
+C:\Users\Emre Tiryaki\Desktop\HelloWorldQuartzNetWithRamJobStore\HelloWorldQuartzNetWithRamJobStore\bin\Debug\Common.Logging.xml
+C:\Users\Emre Tiryaki\Desktop\HelloWorldQuartzNetWithRamJobStore\HelloWorldQuartzNetWithRamJobStore\bin\Debug\Common.Logging.Core.pdb
+C:\Users\Emre Tiryaki\Desktop\HelloWorldQuartzNetWithRamJobStore\HelloWorldQuartzNetWithRamJobStore\bin\Debug\Common.Logging.Core.xml
+C:\Users\Emre Tiryaki\Desktop\HelloWorldQuartzNetWithRamJobStore\HelloWorldQuartzNetWithRamJobStore\bin\Debug\Quartz.pdb
+C:\Users\Emre Tiryaki\Desktop\HelloWorldQuartzNetWithRamJobStore\HelloWorldQuartzNetWithRamJobStore\bin\Debug\Quartz.xml
+C:\Users\Emre Tiryaki\Desktop\HelloWorldQuartzNetWithRamJobStore\HelloWorldQuartzNetWithRamJobStore\obj\Debug\HelloWorldQuartzNetWithRamJobStore.csprojResolveAssemblyReference.cache
+C:\Users\Emre Tiryaki\Desktop\HelloWorldQuartzNetWithRamJobStore\HelloWorldQuartzNetWithRamJobStore\obj\Debug\HelloWorldQuartzNetWithRamJobStore.exe
+C:\Users\Emre Tiryaki\Desktop\HelloWorldQuartzNetWithRamJobStore\HelloWorldQuartzNetWithRamJobStore\obj\Debug\HelloWorldQuartzNetWithRamJobStore.pdb
